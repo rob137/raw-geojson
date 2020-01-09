@@ -1,0 +1,3768 @@
+[
+  {
+    "type": "FeatureCollection",
+    "properties": {
+      "color": "#a075ff"
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1",
+          "Apple count": 74,
+          "Expected yield": 25,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37245243787764,
+            46.37737219616315
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "2",
+          "Apple count": 21,
+          "Expected yield": 57,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37245243787764,
+            46.37741519616315
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "3",
+          "Apple count": 43,
+          "Expected yield": 63,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.3724417090416,
+            46.377550280252
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4",
+          "Apple count": 3,
+          "Expected yield": 91,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.3724229335785,
+            46.37768721446672
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "5",
+          "Apple count": 75,
+          "Expected yield": 90,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37247121334076,
+            46.37778528876081
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "6",
+          "Apple count": 52,
+          "Expected yield": 80,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37241220474242,
+            46.37792777374215
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "7",
+          "Apple count": 61,
+          "Expected yield": 25,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37246048450471,
+            46.37802214670693
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "8",
+          "Apple count": 118,
+          "Expected yield": 15,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37244975566863,
+            46.378123921290076
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "9",
+          "Apple count": 140,
+          "Expected yield": 38,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37245243787764,
+            46.37824975142153
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "10",
+          "Apple count": 24,
+          "Expected yield": 61,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37244439125061,
+            46.378379282136315
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "11",
+          "Apple count": 31,
+          "Expected yield": 69,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37242829799652,
+            46.3784977099495
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "12",
+          "Apple count": 8,
+          "Expected yield": 60,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37241756916045,
+            46.37860133407534
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "13",
+          "Apple count": 111,
+          "Expected yield": 3,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37243098020554,
+            46.378671650334454
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "14",
+          "Apple count": 77,
+          "Expected yield": 77,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37243098020554,
+            46.378790077513514
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "15",
+          "Apple count": 47,
+          "Expected yield": 9,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37255704402924,
+            46.378815983424694
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "16",
+          "Apple count": 24,
+          "Expected yield": 25,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37253826856612,
+            46.37874566735148
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "17",
+          "Apple count": 102,
+          "Expected yield": 3,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37253022193907,
+            46.37868090246706
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "18",
+          "Apple count": 11,
+          "Expected yield": 79,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37254363298418,
+            46.37862538964787
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "19",
+          "Apple count": 64,
+          "Expected yield": 83,
+          "Diseases": [
+            "Powdery mildew",
+            "Crown rot"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37257850170134,
+            46.378333021201996
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "20",
+          "Apple count": 73,
+          "Expected yield": 68,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.3725838661194,
+            46.37828490978876
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "21",
+          "Apple count": 36,
+          "Expected yield": 42,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37255704402924,
+            46.378253452303355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "22",
+          "Apple count": 28,
+          "Expected yield": 82,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37261605262755,
+            46.37823494789171
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "23",
+          "Apple count": 10,
+          "Expected yield": 33,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37255704402924,
+            46.37814612662845
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "24",
+          "Apple count": 46,
+          "Expected yield": 61,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37256777286528,
+            46.37812577173529
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "25",
+          "Apple count": 32,
+          "Expected yield": 31,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37259191274643,
+            46.37810911772611
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "26",
+          "Apple count": 5,
+          "Expected yield": 34,
+          "Diseases": [
+            "Powdery mildew"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37255972623825,
+            46.37803324939795
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "27",
+          "Apple count": 127,
+          "Expected yield": 32,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37261068820952,
+            46.3779832872706
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "28",
+          "Apple count": 58,
+          "Expected yield": 9,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.3725865483284,
+            46.37795368006245
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "29",
+          "Apple count": 99,
+          "Expected yield": 25,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37258923053741,
+            46.37789816650392
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "30",
+          "Apple count": 129,
+          "Expected yield": 71,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.3725865483284,
+            46.37784635379833
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "31",
+          "Apple count": 10,
+          "Expected yield": 44,
+          "Diseases": [
+            "Powdery mildew"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37257581949233,
+            46.37774642915591
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "32",
+          "Apple count": 84,
+          "Expected yield": 11,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37261605262755,
+            46.37768721446672
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "33",
+          "Apple count": 9,
+          "Expected yield": 70,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37258923053741,
+            46.3775576821102
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "34",
+          "Apple count": 44,
+          "Expected yield": 19,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37257313728331,
+            46.377505869081574
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "35",
+          "Apple count": 138,
+          "Expected yield": 10,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.3725865483284,
+            46.37741334569387
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "36",
+          "Apple count": 90,
+          "Expected yield": 22,
+          "Diseases": [
+            "Powdery mildew",
+            "Crown rot"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37272602319717,
+            46.37741334569387
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "37",
+          "Apple count": 59,
+          "Expected yield": 0,
+          "Diseases": [
+            "Powdery mildew",
+            "Crown rot"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.372696518898,
+            46.37755583164576
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "38",
+          "Apple count": 93,
+          "Expected yield": 9,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37270724773407,
+            46.37769091538668
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "39",
+          "Apple count": 104,
+          "Expected yield": 92,
+          "Diseases": [
+            "Powdery mildew"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37271797657013,
+            46.37791297012503
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "40",
+          "Apple count": 40,
+          "Expected yield": 96,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.372696518898,
+            46.37804065119069
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "41",
+          "Apple count": 85,
+          "Expected yield": 40,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.372696518898,
+            46.378253452303355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "42",
+          "Apple count": 73,
+          "Expected yield": 89,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37272334098816,
+            46.37842554303141
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "43",
+          "Apple count": 87,
+          "Expected yield": 58,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37265360355376,
+            46.37853101772567
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "44",
+          "Apple count": 25,
+          "Expected yield": 31,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37275820970535,
+            46.37868275289339
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "45",
+          "Apple count": 51,
+          "Expected yield": 65,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37267237901688,
+            46.37879377835873
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "46",
+          "Apple count": 126,
+          "Expected yield": 3,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37273675203322,
+            46.378797479203705
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "47",
+          "Apple count": 70,
+          "Expected yield": 18,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.3728950023651,
+            46.378784526245255
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "48",
+          "Apple count": 114,
+          "Expected yield": 95,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37288427352905,
+            46.37874011607867
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "49",
+          "Apple count": 74,
+          "Expected yield": 24,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37286281585692,
+            46.37866054777325
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "50",
+          "Apple count": 50,
+          "Expected yield": 4,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37290841341019,
+            46.37857912892208
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "51",
+          "Apple count": 89,
+          "Expected yield": 89,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.3728386759758,
+            46.3784921586515
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "52",
+          "Apple count": 39,
+          "Expected yield": 61,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.3728950023651,
+            46.378408889113686
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "53",
+          "Apple count": 88,
+          "Expected yield": 4,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.3728386759758,
+            46.37836632907865
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "54",
+          "Apple count": 5,
+          "Expected yield": 89,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37287890911102,
+            46.3783089655007
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "55",
+          "Apple count": 38,
+          "Expected yield": 80,
+          "Diseases": [
+            "Powdery mildew",
+            "Crown rot"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37285208702086,
+            46.378253452303355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "56",
+          "Apple count": 128,
+          "Expected yield": 30,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37286549806596,
+            46.378207191262455
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "57",
+          "Apple count": 129,
+          "Expected yield": 52,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.3728601336479,
+            46.37817573373226
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "58",
+          "Apple count": 6,
+          "Expected yield": 42,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.372873544693,
+            46.37809616460441
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "59",
+          "Apple count": 68,
+          "Expected yield": 6,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37285208702086,
+            46.37803139894961
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "60",
+          "Apple count": 101,
+          "Expected yield": 14,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37286818027496,
+            46.37797033411903
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "61",
+          "Apple count": 149,
+          "Expected yield": 16,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37283062934875,
+            46.377896316051
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "62",
+          "Apple count": 85,
+          "Expected yield": 3,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37286549806596,
+            46.37782229788262
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "63",
+          "Apple count": 74,
+          "Expected yield": 8,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37291646003723,
+            46.37777418601939
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "64",
+          "Apple count": 96,
+          "Expected yield": 54,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37286281585692,
+            46.37767981262605
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "65",
+          "Apple count": 83,
+          "Expected yield": 36,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37290841341019,
+            46.37765020525334
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "66",
+          "Apple count": 1,
+          "Expected yield": 59,
+          "Diseases": [
+            "Powdery mildew",
+            "Crown rot"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37292450666428,
+            46.37751327094583
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "67",
+          "Apple count": 131,
+          "Expected yield": 75,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37290304899214,
+            46.37744480366328
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "68",
+          "Apple count": 147,
+          "Expected yield": 84,
+          "Diseases": [
+            "Powdery mildew"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37284404039383,
+            46.37753547653255
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "69",
+          "Apple count": 32,
+          "Expected yield": 37,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37305593490599,
+            46.37743925225823
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "70",
+          "Apple count": 110,
+          "Expected yield": 22,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.3730934858322,
+            46.377602093238494
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "71",
+          "Apple count": 76,
+          "Expected yield": 43,
+          "Diseases": [
+            "Powdery mildew"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37300229072571,
+            46.37774642915591
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "72",
+          "Apple count": 99,
+          "Expected yield": 45,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.3730934858322,
+            46.37794997916029
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "73",
+          "Apple count": 59,
+          "Expected yield": 73,
+          "Diseases": [
+            "Powdery mildew"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37302911281586,
+            46.37837188038946
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "74",
+          "Apple count": 50,
+          "Expected yield": 3,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37315249443054,
+            46.37873826565429
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "75",
+          "Apple count": 92,
+          "Expected yield": 4,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37319540977478,
+            46.378642043499546
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "76",
+          "Apple count": 50,
+          "Expected yield": 35,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37298619747163,
+            46.378556923759774
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "77",
+          "Apple count": 10,
+          "Expected yield": 19,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37319540977478,
+            46.37848660735293
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "78",
+          "Apple count": 70,
+          "Expected yield": 58,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37316858768463,
+            46.37829786286573
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "79",
+          "Apple count": 137,
+          "Expected yield": 46,
+          "Diseases": [
+            "Powdery mildew",
+            "Crown rot"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37308812141418,
+            46.37819793904957
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "80",
+          "Apple count": 144,
+          "Expected yield": 21,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37311494350433,
+            46.37813502396038
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "81",
+          "Apple count": 75,
+          "Expected yield": 13,
+          "Diseases": [
+            "Powdery mildew"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37313103675842,
+            46.37788706378542
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "82",
+          "Apple count": 30,
+          "Expected yield": 76,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37315249443054,
+            46.37781304560452
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "83",
+          "Apple count": 66,
+          "Expected yield": 92,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37322223186491,
+            46.37809801505054
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "84",
+          "Apple count": 125,
+          "Expected yield": 80,
+          "Diseases": [
+            "Powdery mildew",
+            "Crown rot"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37319004535675,
+            46.377602093238494
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "85",
+          "Apple count": 23,
+          "Expected yield": 83,
+          "Diseases": [
+            "Powdery mildew"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37319540977478,
+            46.377764933733125
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "86",
+          "Apple count": 109,
+          "Expected yield": 52,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.3731846809387,
+            46.37754287839276
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "87",
+          "Apple count": 20,
+          "Expected yield": 43,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37319004535675,
+            46.3774096447551
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "88",
+          "Apple count": 46,
+          "Expected yield": 59,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.3733241558075,
+            46.377387439117214
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "89",
+          "Apple count": 30,
+          "Expected yield": 27,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37332952022552,
+            46.3775465793225
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "90",
+          "Apple count": 133,
+          "Expected yield": 37,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37336707115173,
+            46.37787226015728
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "91",
+          "Apple count": 107,
+          "Expected yield": 19,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37339121103287,
+            46.37808136103294
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "92",
+          "Apple count": 40,
+          "Expected yield": 3,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37332013249396,
+            46.37799994131812
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "93",
+          "Apple count": 119,
+          "Expected yield": 59,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.3733617067337,
+            46.37826270450682
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "94",
+          "Apple count": 40,
+          "Expected yield": 49,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.3734140098095,
+            46.37835430123666
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "95",
+          "Apple count": 99,
+          "Expected yield": 79,
+          "Diseases": [
+            "Powdery mildew",
+            "Crown rot"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37335231900215,
+            46.37848475691993
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "96",
+          "Apple count": 53,
+          "Expected yield": 61,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37344351410864,
+            46.37863741743014
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "97",
+          "Apple count": 129,
+          "Expected yield": 79,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37340462207794,
+            46.3787151353441
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "98",
+          "Apple count": 131,
+          "Expected yield": 67,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37344217300415,
+            46.37876694722529
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "99",
+          "Apple count": 45,
+          "Expected yield": 24,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37338986992836,
+            46.37882245990059
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "100",
+          "Apple count": 43,
+          "Expected yield": 10,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37339121103287,
+            46.37860688536225
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "101",
+          "Apple count": 51,
+          "Expected yield": 63,
+          "Diseases": [],
+          "blockId": 1
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37344351410864,
+            46.37854489595977
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "102",
+          "Apple count": 114,
+          "Expected yield": 81,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37366747856139,
+            46.376749023166305
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "103",
+          "Apple count": 121,
+          "Expected yield": 33,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37368088960648,
+            46.376713863810124
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "104",
+          "Apple count": 40,
+          "Expected yield": 91,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37365138530731,
+            46.376673152948364
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "105",
+          "Apple count": 44,
+          "Expected yield": 70,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37369430065155,
+            46.376652797506104
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "106",
+          "Apple count": 9,
+          "Expected yield": 89,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37365406751633,
+            46.37662689056862
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "107",
+          "Apple count": 16,
+          "Expected yield": 20,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37370234727858,
+            46.37661578759166
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "108",
+          "Apple count": 75,
+          "Expected yield": 95,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37366479635237,
+            46.3765750766568
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "109",
+          "Apple count": 49,
+          "Expected yield": 97,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37371039390565,
+            46.37654546868511
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "110",
+          "Apple count": 140,
+          "Expected yield": 47,
+          "Diseases": [
+            "Powdery mildew"
+          ],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37366211414336,
+            46.376534365691576
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "111",
+          "Apple count": 61,
+          "Expected yield": 72,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37370234727858,
+            46.3765047576978
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "112",
+          "Apple count": 92,
+          "Expected yield": 36,
+          "Diseases": [
+            "Powdery mildew"
+          ],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37364333868027,
+            46.37648810319426
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "113",
+          "Apple count": 136,
+          "Expected yield": 0,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37369966506957,
+            46.37643999015548
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "114",
+          "Apple count": 108,
+          "Expected yield": 61,
+          "Diseases": [
+            "Powdery mildew"
+          ],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37365138530731,
+            46.37641963462631
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "115",
+          "Apple count": 42,
+          "Expected yield": 83,
+          "Diseases": [
+            "Powdery mildew",
+            "Crown rot"
+          ],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37371039390565,
+            46.37639742858584
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "116",
+          "Apple count": 143,
+          "Expected yield": 31,
+          "Diseases": [
+            "Powdery mildew"
+          ],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37364602088928,
+            46.376375222536346
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "117",
+          "Apple count": 120,
+          "Expected yield": 96,
+          "Diseases": [
+            "Powdery mildew"
+          ],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37369161844254,
+            46.3763511659725
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "118",
+          "Apple count": 32,
+          "Expected yield": 45,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37365406751633,
+            46.376323408385694
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "119",
+          "Apple count": 149,
+          "Expected yield": 4,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37368893623352,
+            46.37629194977025
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "120",
+          "Apple count": 115,
+          "Expected yield": 5,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.3736487030983,
+            46.3762752952018
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "121",
+          "Apple count": 100,
+          "Expected yield": 84,
+          "Diseases": [
+            "Powdery mildew"
+          ],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37369161844254,
+            46.37624938808522
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "122",
+          "Apple count": 149,
+          "Expected yield": 26,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37365674972533,
+            46.37618462024001
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "123",
+          "Apple count": 10,
+          "Expected yield": 83,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.3737050294876,
+            46.37614575949599
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "124",
+          "Apple count": 139,
+          "Expected yield": 86,
+          "Diseases": [
+            "Powdery mildew"
+          ],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37363529205322,
+            46.37612355334415
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "125",
+          "Apple count": 113,
+          "Expected yield": 54,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37369430065155,
+            46.37603842967841
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "126",
+          "Apple count": 49,
+          "Expected yield": 80,
+          "Diseases": [
+            "Powdery mildew"
+          ],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37376940250397,
+            46.376086543071
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "127",
+          "Apple count": 10,
+          "Expected yield": 64,
+          "Diseases": [
+            "Powdery mildew"
+          ],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37381500005722,
+            46.376105048210704
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "128",
+          "Apple count": 1,
+          "Expected yield": 1,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37374526262282,
+            46.37617351717312
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "129",
+          "Apple count": 22,
+          "Expected yield": 29,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37380963563919,
+            46.37616518987147
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "130",
+          "Apple count": 98,
+          "Expected yield": 30,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37381500005722,
+            46.37623828503149
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "131",
+          "Apple count": 4,
+          "Expected yield": 57,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.373774766922,
+            46.37626419215334
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "132",
+          "Apple count": 122,
+          "Expected yield": 93,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37381500005722,
+            46.376319707373064
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "133",
+          "Apple count": 60,
+          "Expected yield": 90,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37376537919043,
+            46.37636782051782
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "134",
+          "Apple count": 45,
+          "Expected yield": 90,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37380695343018,
+            46.37641593362019
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "135",
+          "Apple count": 128,
+          "Expected yield": 33,
+          "Diseases": [
+            "Powdery mildew"
+          ],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.3737600147724,
+            46.376442765908855
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "136",
+          "Apple count": 36,
+          "Expected yield": 0,
+          "Diseases": [
+            "Powdery mildew",
+            "Crown rot"
+          ],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37381902337074,
+            46.376470523435
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "137",
+          "Apple count": 36,
+          "Expected yield": 19,
+          "Diseases": [
+            "Powdery mildew"
+          ],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37380829453467,
+            46.376521412196276
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "138",
+          "Apple count": 88,
+          "Expected yield": 71,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37376672029495,
+            46.376517711197046
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "139",
+          "Apple count": 25,
+          "Expected yield": 49,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37377074360849,
+            46.37658247864721
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "140",
+          "Apple count": 58,
+          "Expected yield": 2,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37381902337074,
+            46.37657415140792
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "141",
+          "Apple count": 27,
+          "Expected yield": 6,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37375599145889,
+            46.37668055492549
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "142",
+          "Apple count": 98,
+          "Expected yield": 61,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37382572889327,
+            46.37666112473341
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "143",
+          "Apple count": 125,
+          "Expected yield": 4,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37380963563919,
+            46.37673144349104
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "144",
+          "Apple count": 122,
+          "Expected yield": 5,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37387400865556,
+            46.37672404152081
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "145",
+          "Apple count": 44,
+          "Expected yield": 0,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37392228841782,
+            46.376698134617115
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "146",
+          "Apple count": 91,
+          "Expected yield": 73,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37387400865556,
+            46.37666667621757
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "147",
+          "Apple count": 2,
+          "Expected yield": 58,
+          "Diseases": [
+            "Powdery mildew",
+            "Crown rot"
+          ],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37393569946289,
+            46.37664539552524
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "148",
+          "Apple count": 20,
+          "Expected yield": 9,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37387534976006,
+            46.376617638087964
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "149",
+          "Apple count": 114,
+          "Expected yield": 81,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37391692399979,
+            46.37658803013935
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "150",
+          "Apple count": 45,
+          "Expected yield": 0,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37386596202849,
+            46.37657137566121
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "151",
+          "Apple count": 63,
+          "Expected yield": 52,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37390887737273,
+            46.376541767687506
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "152",
+          "Apple count": 24,
+          "Expected yield": 95,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37387534976006,
+            46.37653251519242
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "153",
+          "Apple count": 46,
+          "Expected yield": 24,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37385791540144,
+            46.376471448685635
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "154",
+          "Apple count": 77,
+          "Expected yield": 56,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37391692399979,
+            46.37649272944575
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "155",
+          "Apple count": 118,
+          "Expected yield": 19,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.3739209473133,
+            46.37645386892101
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "156",
+          "Apple count": 10,
+          "Expected yield": 7,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37387266755104,
+            46.376442765908855
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "157",
+          "Apple count": 25,
+          "Expected yield": 29,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.3739035129547,
+            46.37641870937478
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "158",
+          "Apple count": 22,
+          "Expected yield": 75,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37386998534203,
+            46.37640483060032
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "159",
+          "Apple count": 74,
+          "Expected yield": 57,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37392228841782,
+            46.37639465283013
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "160",
+          "Apple count": 10,
+          "Expected yield": 66,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37387132644655,
+            46.3763715215272
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "161",
+          "Apple count": 3,
+          "Expected yield": 60,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37392765283585,
+            46.3763604184983
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "162",
+          "Apple count": 27,
+          "Expected yield": 77,
+          "Diseases": [
+            "Powdery mildew"
+          ],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37387534976006,
+            46.376346539709004
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "163",
+          "Apple count": 108,
+          "Expected yield": 79,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37391826510428,
+            46.37631600636015
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "164",
+          "Apple count": 144,
+          "Expected yield": 5,
+          "Diseases": [
+            "Powdery mildew"
+          ],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37386998534203,
+            46.37624198604964
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "165",
+          "Apple count": 119,
+          "Expected yield": 76,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37391558289528,
+            46.3762207051918
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "166",
+          "Apple count": 122,
+          "Expected yield": 82,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.3739209473133,
+            46.3761605635922
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "167",
+          "Apple count": 123,
+          "Expected yield": 56,
+          "Diseases": [
+            "Powdery mildew"
+          ],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37387132644655,
+            46.37613743219011
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "168",
+          "Apple count": 50,
+          "Expected yield": 16,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37392765283585,
+            46.37611707654817
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "169",
+          "Apple count": 53,
+          "Expected yield": 30,
+          "Diseases": [],
+          "blockId": 2
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37387669086456,
+            46.376114300778205
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "170",
+          "Apple count": 81,
+          "Expected yield": 14,
+          "Diseases": [],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.372601300478,
+            46.37599309201968
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "171",
+          "Apple count": 130,
+          "Expected yield": 18,
+          "Diseases": [],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37256777286528,
+            46.37595423113938
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "172",
+          "Apple count": 71,
+          "Expected yield": 72,
+          "Diseases": [],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37260264158249,
+            46.3759329501694
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "173",
+          "Apple count": 98,
+          "Expected yield": 23,
+          "Diseases": [
+            "Powdery mildew"
+          ],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37256106734277,
+            46.37590334184955
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "174",
+          "Apple count": 104,
+          "Expected yield": 45,
+          "Diseases": [
+            "Powdery mildew"
+          ],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37259861826895,
+            46.37588576190203
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "175",
+          "Apple count": 66,
+          "Expected yield": 37,
+          "Diseases": [],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.3725516796112,
+            46.37584597568415
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "176",
+          "Apple count": 96,
+          "Expected yield": 49,
+          "Diseases": [],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37259995937347,
+            46.375835797809785
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "177",
+          "Apple count": 30,
+          "Expected yield": 71,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.3725516796112,
+            46.37579323576922
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "178",
+          "Apple count": 134,
+          "Expected yield": 32,
+          "Diseases": [],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37259325385092,
+            46.375782132622746
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "179",
+          "Apple count": 126,
+          "Expected yield": 52,
+          "Diseases": [
+            "Powdery mildew",
+            "Crown rot"
+          ],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37255436182022,
+            46.37575530000946
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "180",
+          "Apple count": 45,
+          "Expected yield": 74,
+          "Diseases": [],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37259727716446,
+            46.375725691593274
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "181",
+          "Apple count": 93,
+          "Expected yield": 51,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37256240844727,
+            46.37570626106147
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "182",
+          "Apple count": 22,
+          "Expected yield": 88,
+          "Diseases": [],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37260666489601,
+            46.37567942841087
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "183",
+          "Apple count": 71,
+          "Expected yield": 87,
+          "Diseases": [],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37256777286528,
+            46.37567387682636
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "184",
+          "Apple count": 53,
+          "Expected yield": 61,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37259593605994,
+            46.37564334310138
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "185",
+          "Apple count": 10,
+          "Expected yield": 92,
+          "Diseases": [],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37256106734277,
+            46.37562668833511
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "186",
+          "Apple count": 114,
+          "Expected yield": 83,
+          "Diseases": [],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.372601300478,
+            46.3755776492716
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "187",
+          "Apple count": 137,
+          "Expected yield": 32,
+          "Diseases": [],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.3725691139698,
+            46.37555729342098
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "188",
+          "Apple count": 16,
+          "Expected yield": 89,
+          "Diseases": [],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37260666489601,
+            46.375523983830874
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "189",
+          "Apple count": 51,
+          "Expected yield": 21,
+          "Diseases": [],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37256240844727,
+            46.37550640376124
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "190",
+          "Apple count": 58,
+          "Expected yield": 59,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37259861826895,
+            46.37546846780223
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "191",
+          "Apple count": 66,
+          "Expected yield": 23,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37255570292471,
+            46.37542960654858
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "192",
+          "Apple count": 132,
+          "Expected yield": 29,
+          "Diseases": [],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37260666489601,
+            46.37541017591138
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "193",
+          "Apple count": 26,
+          "Expected yield": 41,
+          "Diseases": [],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.372514128685,
+            46.37541110117997
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "194",
+          "Apple count": 29,
+          "Expected yield": 84,
+          "Diseases": [
+            "Powdery mildew"
+          ],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37247523665427,
+            46.37546569199931
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "195",
+          "Apple count": 21,
+          "Expected yield": 69,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37251546978949,
+            46.375505478494276
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "196",
+          "Apple count": 69,
+          "Expected yield": 9,
+          "Diseases": [],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37248060107233,
+            46.375543414427575
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "197",
+          "Apple count": 90,
+          "Expected yield": 30,
+          "Diseases": [
+            "Powdery mildew",
+            "Crown rot"
+          ],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37253022193907,
+            46.37560355670687
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "198",
+          "Apple count": 139,
+          "Expected yield": 89,
+          "Diseases": [],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37246987223624,
+            46.3756516704826
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "199",
+          "Apple count": 12,
+          "Expected yield": 69,
+          "Diseases": [],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37253290414809,
+            46.37570903685214
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "200",
+          "Apple count": 17,
+          "Expected yield": 7,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37250742316245,
+            46.37575530000946
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "201",
+          "Apple count": 118,
+          "Expected yield": 14,
+          "Diseases": [],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37250742316245,
+            46.37583487254839
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "202",
+          "Apple count": 135,
+          "Expected yield": 98,
+          "Diseases": [],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.3724980354309,
+            46.37591444497137
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "203",
+          "Apple count": 70,
+          "Expected yield": 4,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.3724792599678,
+            46.375976437360094
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "204",
+          "Apple count": 99,
+          "Expected yield": 76,
+          "Diseases": [],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37245914340019,
+            46.37589964080845
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "205",
+          "Apple count": 12,
+          "Expected yield": 77,
+          "Diseases": [
+            "Powdery mildew"
+          ],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37245243787764,
+            46.37585152725116
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "206",
+          "Apple count": 98,
+          "Expected yield": 17,
+          "Diseases": [],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37244975566863,
+            46.37578305788506
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "207",
+          "Apple count": 145,
+          "Expected yield": 29,
+          "Diseases": [],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37246316671373,
+            46.375728467382984
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "208",
+          "Apple count": 9,
+          "Expected yield": 54,
+          "Diseases": [],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37246584892273,
+            46.37570533579785
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "209",
+          "Apple count": 120,
+          "Expected yield": 13,
+          "Diseases": [],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37246316671373,
+            46.37561095882898
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "210",
+          "Apple count": 31,
+          "Expected yield": 99,
+          "Diseases": [
+            "Crown rot"
+          ],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37245914340019,
+            46.375508254295156
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "211",
+          "Apple count": 78,
+          "Expected yield": 60,
+          "Diseases": [],
+          "blockId": 3
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.37245914340019,
+            46.37543423288976
+          ]
+        }
+      }
+    ]
+  }
+]

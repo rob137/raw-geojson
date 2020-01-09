@@ -1,0 +1,1422 @@
+[
+  {
+    "type": "FeatureCollection",
+    "properties": {
+      "id": 0,
+      "color": "#12E1dE"
+    },
+    "features": [{
+      "type": "Feature",
+      "properties": {
+        "sensors": ["IMU", "LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37242829799652,
+          46.37733192498298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["HD Camera"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37241756916045,
+          46.377420747570646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["IMU"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37241756916045,
+          46.377539177462765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["HD Camera"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37241756916045,
+          46.377616896939884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37240147590637,
+          46.37769461630639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["IMU", "LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3724229335785,
+          46.37791297012503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3724229335785,
+          46.37802399715561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37241220474242,
+          46.37819053727814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37241220474242,
+          46.378312666378505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3724229335785,
+          46.378379282136315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3724229335785,
+          46.37855322289851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["IMU"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37241220474242,
+          46.378671650334454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["HD Camera"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3724229335785,
+          46.37877157328373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["IMU", "LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37243366241455,
+          46.37882338511135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["HD Camera", "LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37243366241455,
+          46.37886779521021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["HD Camera", "LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37249267101286,
+          46.37886409437001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37249267101286,
+          46.37883448763947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37249267101286,
+          46.37879239054181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["IMU"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37248864769936,
+          46.37872299965068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37248596549034,
+          46.37861058621986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37248462438583,
+          46.37853471858844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37247389554977,
+          46.37844867346425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37247657775879,
+          46.37838668388215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37247791886328,
+          46.37833394642108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37247389554977,
+          46.378211817368296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37247389554977,
+          46.378150752739465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["HD Camera"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37247791886328,
+          46.37806008089191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37247255444525,
+          46.37796755844326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37248730659483,
+          46.37782969970397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3724792599678,
+          46.37771867227835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3724792599678,
+          46.377629850175325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3724792599678,
+          46.377548429787275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37246853113174,
+          46.377478112081725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37247121334076,
+          46.37739669146742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3724792599678,
+          46.37734117734262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37252485752106,
+          46.37733007451087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37255704402924,
+          46.37735228017209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3725516796112,
+          46.37748551394972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37254631519318,
+          46.37766130802001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37254631519318,
+          46.377968483668546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37254899740219,
+          46.37817573373226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3725355863571,
+          46.37840148737085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37254631519318,
+          46.37862538964787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["IMU"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37254631519318,
+          46.37868645374588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37254631519318,
+          46.37882893637569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37255972623825,
+          46.378875196889844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37259995937347,
+          46.37889370108452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3726053237915,
+          46.37882523553287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37259459495544,
+          46.378729013531405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37259459495544,
+          46.37865684691901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37259727716446,
+          46.37855507332917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37259191274643,
+          46.37848660735293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37259191274643,
+          46.37842554303141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37259191274643,
+          46.37834412382981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37259727716446,
+          46.378283059348966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37259727716446,
+          46.37821459303162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37259727716446,
+          46.37810726728037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37259727716446,
+          46.377981436820555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37259727716446,
+          46.37790556831497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37257581949233,
+          46.377672410784385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37260264158249,
+          46.37751512141173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37259459495544,
+          46.3774466541315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37259459495544,
+          46.37739114005748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37259995937347,
+          46.377339326870825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37259995937347,
+          46.37731527073173
+        ]
+      }
+    }
+    ]
+  },
+  {
+    "type": "FeatureCollection",
+    "properties": {
+      "id": 1,
+      "color": "#FF0000"
+    },
+    "features": [{
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"],
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37265360355376,
+          46.377333775455035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37265360355376,
+          46.377377261530164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["IMU", "LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37266433238985,
+          46.377448504599656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37264555692673,
+          46.37755213071663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37265494465828,
+          46.377646504330656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["IMU"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37265628576277,
+          46.37772237319618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37265494465828,
+          46.3777871392175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37265226244926,
+          46.37785190516201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37265896797179,
+          46.37795923141521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["IMU"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37264287471771,
+          46.37805175387796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37265896797179,
+          46.37816740673594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["IMU"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37265628576277,
+          46.37828490978876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3726401925087,
+          46.37845237433261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["IMU"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37264823913573,
+          46.378520840351776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37265226244926,
+          46.37862724007606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37264823913573,
+          46.378724387469354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37266030907631,
+          46.378817833846476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37266030907631,
+          46.37886779521021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37267506122589,
+          46.378890000246074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["IMU"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37271797657013,
+          46.37888907503643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37273272871971,
+          46.37887612209971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["IMU"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37273272871971,
+          46.3787984044149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37273138761519,
+          46.37874011607867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3727340698242,
+          46.37865499649179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["IMU", "LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37272065877914,
+          46.37859023149984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37272602319717,
+          46.37849956038204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37272602319717,
+          46.37840703867806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["IMU", "LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37272602319717,
+          46.37832746988725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.372696518898,
+          46.378242349657114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37272065877914,
+          46.37816093018237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["IMU", "LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37270992994308,
+          46.37804065119069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37270724773407,
+          46.37792592329025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37269920110701,
+          46.37784820425296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37269920110701,
+          46.37777418601939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37268310785294,
+          46.37768166308632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37268310785294,
+          46.37761874740227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37269920110701,
+          46.37749846721633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37269383668898,
+          46.377448504599656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37269920110701,
+          46.37735968205716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37270992994308,
+          46.377333775455035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37274479866029,
+          46.37731342025906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["LIDAR"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.37277698516844,
+          46.37732452309417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sensors": ["IMU"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3727675974369,
+          46.37736893441207
+        ]
+      }
+    }
+    ]
+  }
+]
